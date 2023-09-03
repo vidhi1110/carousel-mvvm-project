@@ -1,4 +1,4 @@
-Carousel layout project with MVVM structure
+## Carousel layout project with MVVM structure
 
 <img width="439" alt="Screenshot 2023-02-23 at 12 56 13 PM" src="https://user-images.githubusercontent.com/20376971/220790897-0f7c1ecf-5d6b-44a1-9d9f-8c1c1b06f4bb.png">
 
