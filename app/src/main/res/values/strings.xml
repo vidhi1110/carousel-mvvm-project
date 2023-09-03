@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vidhi Practical</string>
+    <string name="content_description_meme">meme banner</string>
+    <string name="pick_your_lucky_charm">Pick your lucky charms</string>
+    <string name="confirm_your_choice">Confirm your choices!</string>
+    <string name="description">"&#8226; Personality: compassionate, generous, diligent \n&#8226; Lucky numbers: 2, 5, 8 \n&#8226; Lucky colors: yellow, gray, brown, gold \n&#8226; Lucky flowers: hydrangea and daisy"</string>
+    <string name="here_is_your_selection">Here is your selection</string>
+    <string name="oops_something_went_wrong_msg">Oops something went wrong!!</string>
+    <string name="close">Close</string>
+    <string name="result">Result</string>
+</resources>
