@@ -37,7 +37,7 @@ Before you begin, ensure you have the following prerequisites:
 2. Open the project in Android Studio.
 3. Build and run the project on an Android emulator or device to see the carousel layout in action.
 
-### Durectiry structure
+### Direcory structure
 
 | Direcory        | Explanation           
 | ------------- | -------------| 
